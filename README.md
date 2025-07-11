@@ -1,12 +1,12 @@
-#  Caio Assmann
+# 👨‍💻 Caio Assmann
 
- Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em Desenvolvimento Web e Banco de Dados  
 🚀 Buscando minha primeira oportunidade na área de TI
 
 ---
 
-##  Sobre mim
+##💡  Sobre mim
 
 Sou apaixonado por tecnologia e estou constantemente aprendendo novas ferramentas, linguagens e práticas. Atualmente estudando Front-end, Back-end e análise de dados. Gosto de resolver problemas e desenvolver soluções úteis.
 

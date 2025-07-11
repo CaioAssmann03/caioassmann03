@@ -33,10 +33,14 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas ferramenta
 
 > “A prática leva à perfeição.”  
 
-## 📈 Minhas estatísticas no GitHub
+## 📊 Minhas estatísticas no GitHub
 
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioassmann03&layout=compact&theme=dark" width="49.5%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=caioassmann03&show_icons=true&theme=dark&count_private=true" width="49.5%"/>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caioassmann03&layout=compact&theme=dark)
+</div>
+
 
 <!--
 **CaioAssmann03/caioassmann03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

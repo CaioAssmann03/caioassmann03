@@ -6,7 +6,7 @@
 
 ---
 
-💡  Sobre mim
+## 💡 Sobre mim
 
 Sou apaixonado por tecnologia e estou constantemente aprendendo novas ferramentas, linguagens e práticas. Atualmente estudando Front-end, Back-end e análise de dados. Gosto de resolver problemas e desenvolver soluções úteis.
 

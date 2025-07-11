@@ -26,8 +26,8 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas ferramenta
 ## 📫 Contato
 
 - 📧 caioassmann33@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin)
-- 💻 [Portfólio](https://caioassmann03.github.io/PORTIFOLIO/)
+- 💼 <a href="https://caioassmann03.github.io/PORTIFOLIO/" target="_blank">Portfólio</a>
+- 💻 <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">LinkedIn</a> 
 
 ---
 

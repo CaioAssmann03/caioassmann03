@@ -1,6 +1,6 @@
-# 👨‍💻 Caio Assmann
+#  Caio Assmann
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+ Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em Desenvolvimento Web e Banco de Dados  
 🚀 Buscando minha primeira oportunidade na área de TI
 
@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas ferramenta
 
 ---
 
-## 🧰 Tecnologias que estou aprendendo
+## 🚀 Tecnologias que estou aprendendo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,13 +25,18 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas ferramenta
 
 ## 📫 Contato
 
-- 📧 Email: caio@email.com  
+- 📧 caioassmann33@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin)
 - 💻 [Portfólio](https://caioassmann03.github.io/PORTIFOLIO/)
 
 ---
 
 > “A prática leva à perfeição.”  
+
+## 📈 Minhas estatísticas no GitHub
+
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caioassmann03&layout=compact&theme=dark)
 
 <!--
 **CaioAssmann03/caioassmann03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

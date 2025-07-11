@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas ferramenta
 
 ---
 
-## 🤍: Tecnologias que estou aprendendo
+## 🚀 Tecnologias que estou aprendendo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,9 +26,9 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas ferramenta
 ## 📫 Contato
 
 - 📧 caioassmann33@gmail.com  
-- 💼 <a href= "https://caioassmann03.github.io/PORTIFOLIO/" target="_blank">Portfólio</a>
-- 💻 <a href= "https://www.linkedin.com/in/caio-assmann/" target="_blank">LinkedIn</a> 
-
+- 💼 <a href="https://caioassmann03.github.io/PORTIFOLIO/" target="_blank">Portfólio</a>
+- 💻 <a href="https://www.linkedin.com/in/caio-assmann/" target="_blank">LinkedIn</a> 
+- 💬   <a href="https://api.whatsapp.com/send/?phone=%2B5551991934351&text&type=phone_number&app_absent=0">WhatsApp</a>
 ---
 
 > “A prática leva à perfeição.”  
@@ -42,18 +42,4 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas ferramenta
 </div>
 
 
-<!--
-**CaioAssmann03/caioassmann03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 

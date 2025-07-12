@@ -36,11 +36,14 @@ Sou apaixonado por tecnologia e estou constantemente aprendendo novas ferramenta
 
 ## 📊 Minhas estatísticas no GitHub
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioassmann03&layout=compact&theme=gruvbox" width="49.5%"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=caioassmann03&show_icons=true&theme=github_light&count_private=true" width="49.5%"/>
 
-</div>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caioassmann03&layout=compact&theme=github_dark)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=caioassmann03&show_icons=true&theme=github_dark&count_private=true)
+
+
+
+
 
 
 

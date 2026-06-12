@@ -1,8 +1,11 @@
 # 👨‍💻 Caio Assmann
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
 📊 Focado em Análise de Dados, SQL, Python e Power BI
+
 🚀 Desenvolvendo projetos para construir experiência prática e portfólio
+
 💼 Em busca da primeira oportunidade na área de Dados ou Desenvolvimento Python
 ---
 

@@ -50,13 +50,6 @@ Estou construindo meu portfólio através de projetos envolvendo automação, AP
 > “A prática leva à perfeição.”* 
 ---
 
-## 📊 Minhas estatísticas no GitHub
-
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caioassmann03&layout=compact&theme=github_dark)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=caioassmann03&show_icons=true&theme=github_dark&count_private=true)
-
 
 
 

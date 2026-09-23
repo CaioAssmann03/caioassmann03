@@ -6,6 +6,8 @@
 📊 Foco em Análise de Dados, SQL, Python e Power BI
 🚀 Construindo portfólio com projetos práticos
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Analista+de+Dados+em+forma%C3%A7%C3%A3o;Python+%7C+SQL+%7C+Power+BI;Aprendendo+algo+novo+todo+dia" alt="Typing SVG" />
+
 <a href="https://caioassmann03.github.io/PORTIFOLIO/"><img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/caio-assmann/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:caioassmann7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -41,6 +43,14 @@ Meu objetivo é desenvolver soluções que transformem dados em informações ú
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CaioAssmann03&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
 
 ---
 

@@ -3,10 +3,10 @@
 # 👨‍💻 Olá, eu sou o Caio Assmann
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-📊 Foco em Análise de Dados, SQL, Python e Power BI
+💻 Desenvolvimento Fullstack, APIs em Python e Análise de Dados
 🚀 Construindo portfólio com projetos práticos
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Analista+de+Dados+em+forma%C3%A7%C3%A3o;Python+%7C+SQL+%7C+Power+BI;Aprendendo+algo+novo+todo+dia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Construindo+APIs+em+Python;Analista+de+Dados+em+forma%C3%A7%C3%A3o;Aprendendo+algo+novo+todo+dia" alt="Typing SVG" />
 
 <a href="https://caioassmann03.github.io/PORTIFOLIO/"><img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/caio-assmann/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -19,30 +19,39 @@
 
 ## 💡 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados e Desenvolvimento Python.
+Sou estudante de Análise e Desenvolvimento de Sistemas, atuando em três frentes: **desenvolvimento fullstack**, **construção de APIs em Python** e **análise de dados**.
 
-Atualmente estudo SQL, Python, Power BI e Banco de Dados através de cursos, projetos práticos e certificações.
+No back-end, desenvolvo APIs com Python (FastAPI) e Node.js (NestJS), com bancos relacionais e boas práticas de arquitetura. No front-end, construo interfaces com React e TypeScript. Também aplico SQL, Power BI e Python para transformar dados em informações úteis.
 
-Meu objetivo é desenvolver soluções que transformem dados em informações úteis e construir aplicações que resolvam problemas reais. Estou construindo meu portfólio através de projetos envolvendo automação, APIs, análise de dados e dashboards.
+Meu objetivo é desenvolver soluções completas — do banco de dados à interface — e construir aplicações que resolvam problemas reais. Estou expandindo meu portfólio através de projetos envolvendo automação, APIs, aplicações fullstack e dashboards.
 
 ---
 
 ## 🛠️ Tecnologias
 
-**Dados e Back-end**
+**Back-end e APIs**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Front-end e complementares**
+**Front-end**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Dados e ferramentas**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -58,12 +67,24 @@ Meu objetivo é desenvolver soluções que transformem dados em informações ú
 
 | Projeto | Descrição |
 |---|---|
+| [fithub](https://github.com/CaioAssmann03/fithub) | Monorepo fullstack (API NestJS + Prisma, web React, mobile) |
 | [api-documentos](https://github.com/CaioAssmann03/api-documentos) | CRUD de documentos com FastAPI e SQLModel — base para autenticação, agente LangChain e RAG |
 | [lgpd-anonimizacao-sql](https://github.com/CaioAssmann03/lgpd-anonimizacao-sql) | Mascaramento, pseudonimização, views por papel de acesso e direito ao esquecimento em SQL |
+| [Finance_IA](https://github.com/CaioAssmann03/Finance_IA) | Aplicação fullstack de finanças com IA |
 | [FIPE](https://github.com/CaioAssmann03/FIPE) | Análise de dados da tabela FIPE com Jupyter Notebook |
-| [Finance_IA](https://github.com/CaioAssmann03/Finance_IA) | Aplicação de finanças com IA |
 | [sql-murder-mystery](https://github.com/CaioAssmann03/sql-murder-mystery) | Desafio SQL Murder Mystery resolvido apenas com queries SQL |
 | [dashboard_imobiliaria](https://github.com/CaioAssmann03/dashboard_imobiliaria) | Dashboard para o setor imobiliário |
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioAssmann03/caioassmann03/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/CaioAssmann03/caioassmann03/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 ---
 
